@@ -1,4 +1,4 @@
-# RSR<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="de">
 <head>
 <meta charset="UTF-8">
@@ -932,4 +932,4 @@ document.addEventListener('keydown', (e) => {
 });
 </script>
 </body>
-</html>Wiki
+</html>
